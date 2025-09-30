@@ -1,65 +1,51 @@
 [
     {
         "id": 1,
-        "name": "Alice Johnson",
-        "email": "alice@test.com",
-        "address": "123 Maple St, Springfield, IL",
-        "phone": "555-1234"
+        "name": "rifqi",
+        "email": "rifqi@gmail.com",
+        "phone": "123",
+        "address": "alamat"
     },
     {
         "id": 2,
-        "name": "Bob Smith",
-        "email": "bob@test.com",
-        "address": "456 Oak St, Springfield, IL",
-        "phone": "555-5678"
+        "name": "feyfa",
+        "email": "feyfa@gmail.com",
+        "phone": "123",
+        "address": "123"
     },
     {
         "id": 3,
-        "name": "Charlie Brown",
-        "email": "charlie@test.com",
-        "address": "123 Main St, Omaha, NE",
-        "phone": "555-8765"
+        "name": "aaa",
+        "email": "aaa@gmail.com",
+        "phone": "123",
+        "address": "123"
     },
     {
         "id": 4,
-        "name": "name",
-        "email": "email",
-        "address": "address",
-        "phone": "phone"
+        "name": "nama1",
+        "email": "email1@gmail.com",
+        "phone": "1",
+        "address": "1"
     },
     {
         "id": 5,
-        "name": "John Doe",
-        "email": "john@test.com",
-        "address": "123 Main St",
-        "phone": "555-1234"
+        "name": "nama1",
+        "email": "email1@gmail.com",
+        "phone": "1",
+        "address": "1"
     },
     {
         "id": 6,
-        "name": "Muhammad Jidan",
-        "email": "jidanganteng@gmail.com",
-        "address": "jalan rempoa",
-        "phone": "08121212121212"
+        "name": "nama1",
+        "email": "email1@gmail.com",
+        "phone": "1",
+        "address": "1"
     },
     {
         "id": 7,
-        "name": "dimas",
-        "email": "dimas@gmail.com",
-        "address": "jalan rempoa",
-        "phone": "081322112322"
-    },
-    {
-        "id": 8,
-        "name": "agies wahyudi",
-        "email": "emai@gmail.com",
-        "address": "jalan rempoa",
-        "phone": "098765423"
-    },
-    {
-        "id": 9,
-        "name": "jhon doe",
+        "name": "jhone doe",
         "email": "jhondoe@gmail.com",
-        "address": "jalan awaludin",
-        "phone": "1234567"
+        "phone": "081322112121",
+        "address": "jalan rempoa"
     }
 ]
