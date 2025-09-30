@@ -1,0 +1,23 @@
+# Pastikan semua file teks auto-normalisasi line endings
+* text=auto
+
+# Gunakan LF untuk file kode agar konsisten (meskipun di Windows)
+*.ts text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Windows-only batch files → biarkan CRLF
+*.bat text eol=crlf
+
+# Binary files → jangan diubah line endings
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.lock binary
+*.zip binary
+*.exe binary
