@@ -54,5 +54,12 @@
         "email": "emai@gmail.com",
         "address": "jalan rempoa",
         "phone": "098765423"
+    },
+    {
+        "id": 9,
+        "name": "jhon doe",
+        "email": "jhondoe@gmail.com",
+        "address": "jalan awaludin",
+        "phone": "1234567"
     }
 ]
