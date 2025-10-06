@@ -66,7 +66,7 @@ async function createUser(user: Omit<User, "id">) {
     }).then(m => m.default) as User[]
 
     const id = users.length + 1
-    users.push({ id, ...user })
+    users.push({ ...user, id })
 
     await fs.writeFile("./src/data/users.json", JSON.stringify(users, null, 4))
     return id

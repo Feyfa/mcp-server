@@ -81,7 +81,7 @@ async function handleQuery(tools: Tool[]) {
         tools: toolsFormat,
     })
 
-    console.log(toolResults[0]?.output?.content[0]?.text || "No text generated.")
+    console.log(toolResults[0]?.output?.content[0]?.text || "Sorry, your question is outside our scope.")
 }
 /* EXTEND FUNCTION */
 
